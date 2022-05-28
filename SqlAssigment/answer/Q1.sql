@@ -1,1 +1,1 @@
-SELECT COUNT(Sname) FROM Sales.SalesPeople WHERE Sname like 'a%'';
+SELECT COUNT(Sname) FROM Sales.SalesPeople WHERE Sname like 'a%';
